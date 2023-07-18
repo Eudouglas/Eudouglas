@@ -34,3 +34,7 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
  
 </details>
+
+ <p align="center"> 
+  ![Snake animation](https://github.com/Eudouglas/Eudouglas/blob/output/github-contribution-grid-snake.svg)
+ </p>
