@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/Eudouglas/Eudouglas/blob/main/doug.gif" alt="banner douglas sarmento">
+<img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif" alt="banner douglas sarmento">
 
 <a href="https://eudouglas.github.io/dougfolio/#home" alt="Doug-Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6225E6?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank"></a><a href="mailto:devdoug.it@gmail.com" alt="Doug-Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/douglas-sarmento/" alt="Doug-Linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/douglassarmento_/" alt="Doug-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.facebook.com/Eudouglassarmento" alt="Doug-Facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a><a href="https://discord.gg/585585302546939905" alt="Doug-Discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
