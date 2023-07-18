@@ -37,5 +37,5 @@
 
  <p align="center"> 
 
-  <a href="https://github.com/Eudouglas/Eudouglas/blob/output/github-contribution-grid-snake.svg">
+  ![Snake animation](https://github.com/Eudouglas/Eudouglas/blob/output/github-contribution-grid-snake.svg)
  </p>
