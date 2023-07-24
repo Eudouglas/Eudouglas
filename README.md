@@ -1,7 +1,5 @@
 
-### Olá, Me chamo Douglas Sarmento 👋
-
-
+<h1> Olá, Tudo bem? <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="50" /></h1>
 
 <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif" alt="banner douglas sarmento">
 
