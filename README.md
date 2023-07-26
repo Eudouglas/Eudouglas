@@ -4,7 +4,7 @@
 </div>
 <h1  align="center"> Olá, Tudo bem? <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="50" /></h1>
 <h2 align="center">
-  Minhas Estatísticas do Github<img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-47-323_512.gif" width="50">
+  Estatísticas do Github<img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-47-323_512.gif" width="50">
 </h2>
 <div align="center"> 
   <a href="https://beacons.ai/Eudouglas">
