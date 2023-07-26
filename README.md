@@ -1,16 +1,18 @@
-
-<h1> Olá, Tudo bem? <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="50" /></h1>
-
-<img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif" alt="banner douglas sarmento">
-
-<a href="https://eudouglas.github.io/dougfolio/#home" alt="Doug-Portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6225E6?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank"></a><a href="mailto:devdoug.it@gmail.com" alt="Doug-Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/douglas-sarmento/" alt="Doug-Linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/douglassarmento_/" alt="Doug-instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.facebook.com/Eudouglassarmento" alt="Doug-Facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a><a href="https://discord.gg/585585302546939905" alt="Doug-Discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
-<div>
+<img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif" alt="banner douglas sarmento"> 
+<div align="center"> 
+    <a href="https://eudouglas.github.io/dougfolio/#home" alt="Doug-Portfolio" target="_blank"><img   src="https://img.shields.io/badge/Portfolio-6225E6?style=for-the-badge&logo=windows%20terminal&logoColor=white" target="_blank"></a><a href="mailto:devdoug.it@gmail.com" alt="Doug-Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<h1  align="center"> Olá, Tudo bem? <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="50" /></h1>
+<h2 align="center">
+  Minhas Estatísticas do Github<img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-47-323_512.gif" width="50">
+</h2>
+<div align="center"> 
   <a href="https://beacons.ai/Eudouglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eudouglas&show_icons=true&theme=tokyonight"/>
-   <a href="https://beacons.ai/Eudouglas"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eudouglas&layout=compact&theme=tokyonight"/>
+   <a href="https://beacons.ai/Eudouglas"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eudouglas&layout=compact&theme=tokyonight"/> <a href="https://git.io/streak-stats"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eudouglas&layout=compact&theme=tokyonight"/></a>
 </div>
 
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Doug-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,7 +24,7 @@
   <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Doug-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+</h2>
 <br>
 
 <details align="left">
