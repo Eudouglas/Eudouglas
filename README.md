@@ -1,4 +1,4 @@
-# <b> Olá, Tudo bem? </b>  <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="40"/>
+# <b> Olá </b>  <img src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/hand.gif" width="40"/>
 Me chamo <b>Douglas Sarmento</b> 
 <br><br>
 
