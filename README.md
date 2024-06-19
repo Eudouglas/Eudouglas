@@ -21,7 +21,7 @@
   <img align="center" alt="Logo Doug Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg">
   <img align="center" alt="Logo Doug Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
 
-  <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;"  src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/douglas.gif">
+  <img align="right" alt="doug Gif" height="150" style="border-radius:50px;"  src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/douglas.gif">
 </div>
 <hr>
 
