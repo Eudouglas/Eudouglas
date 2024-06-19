@@ -2,7 +2,7 @@
 Me chamo <b>Douglas Sarmento</b> 
 <br><br>
 
-<img width="550px" align="left" src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif"></img>
+<img width="400px" align="left" src="https://github.com/Eudouglas/Eudouglas/blob/main/assets/doug.gif"></img>
 
 <div align="right">
  
